@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SAP</string>
+    <string name="title_section1">Dúvidas</string>
+    <string name="title_section2">Atendimentos</string>
+    <string name="title_section3">Configurações</string>
+    <string name="title_section4">Sobre</string>
+    <string name="navigation_drawer_open">Abrir navegador</string>
+    <string name="navigation_drawer_close">Fechar navegador</string>
+
+</resources>

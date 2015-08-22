@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="br.edu.ifba.mobile.lanchonete.MLActivity" >
+
+    <item
+        android:id="@+id/solicitarAtendimento"
+        android:title="Solicitar"
+        app:showAsAction="withText|ifRoom">
+        </item>
+
+</menu>

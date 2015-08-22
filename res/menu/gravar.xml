@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="br.edu.ifba.mobile.lanchonete.MLActivity" >
+    <item android:id="@+id/gravar"
+        android:title="Gravar"
+        app:showAsAction="withText|ifRoom" android:checked="false" android:checkable="false" android:enabled="true">
+    </item>
+
+</menu>
